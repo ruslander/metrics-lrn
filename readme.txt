@@ -1,6 +1,5 @@
 Instrumentation in the world of lies
-
-
+--------------------------------------------------------------------------
 
     global timestamp;
 
